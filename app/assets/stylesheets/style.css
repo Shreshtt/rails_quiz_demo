@@ -4,9 +4,11 @@ body {background: #EDEDED;}
 
 #main { width: 500px; border: #135CBE solid 10px; border-radius: 10px; background: white; margin-left:auto; margin-right:auto; padding: 10px;}
 #main h1 {font-size:1.5em;}
+
 #footer > p {font-size: 0.8em; text-align: center;}
 
 .submit {font-size:1.2em; padding:5px 10px; width:150px; margin-top:10px;}
+
 #question {font-size:1.2em;}
 
 #count {font-size: 1.2em;}
