@@ -1,4 +1,4 @@
 This is the demo application of Quiz. You can install it by following commands...
 
-bundle install
-bundle exec rake db:migrate
+==bundle install
+==bundle exec rake db:migrate
